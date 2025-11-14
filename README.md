@@ -2,8 +2,7 @@
 
 ## Conteúdo do repositório
 - `README.md` (este arquivo)
-- `cenarios-de-teste.md` (cenários e planejamento)
-- `respostas-teoricas.md` (Parte 0 e SQL - Parte E)
+- `cenarios-de-teste.md` (Parte 0 e SQL - Parte E - cenários e planejamento)
 - `pom.xml` (Maven)
 - `src/test/java/com/company/ui/pages/LoginPage.java`
 - `src/test/java/com/company/ui/utils/WebDriverFactory.java`
